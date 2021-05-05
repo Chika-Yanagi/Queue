@@ -1,6 +1,7 @@
 # Queue
 標準入力から与えられるキュー操作を実際に行い、最後にキューの内容と getq された文字列 を表示するプログラム。  
   
+[入出力例]    
 gcc -std=c99 -o queue queue.c  
 ./queue  
 putq a  
